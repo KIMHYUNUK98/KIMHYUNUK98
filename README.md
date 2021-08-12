@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KIMHYUNUK&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fingerstyl98)](https://solved.ac/fingerstyle98/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fingerstyle98)](https://solved.ac/fingerstyle98/)
 
