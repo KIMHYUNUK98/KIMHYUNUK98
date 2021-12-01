@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome my GitHub. It's honor to see YOU 👋  
+
+### Introduction
+> I want to be an **AI Engineer** to make our life more beautiful  
+> Although It's the first year I've learned computer, It's really fun and fit for me
 
 <!--
 **KIMHYUNUK98/KIMHYUNUK98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KIMHYUNUK&show_icons=true)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fingerstyle98)](https://solved.ac/fingerstyle98/)
 
