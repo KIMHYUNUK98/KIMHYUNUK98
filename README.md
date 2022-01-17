@@ -4,7 +4,7 @@
 > 🔭 꾸준히 성장하는 개발자 **AI Engineer**   
 > 🌱 HGU B.S && Deep Learning LAB
 
-tistory: https://handong201.tistory.com
+TISTORY: https://handong201.tistory.com  
 BLOG : https://kimhyunuk98.github.io
 
 ### 기술 블로그 정리와 딥러닝 기초, 전공과목 공부 중입니다.
