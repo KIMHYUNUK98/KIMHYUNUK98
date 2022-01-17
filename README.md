@@ -1,8 +1,13 @@
-# Welcome my GitHub. It's honor to see YOU 👋  
+# AI C.S 김현욱입니다. 👋  
 
-### Introduction
-> I want to be an **AI Engineer** to make our life more beautiful  
-> Although It's the first year I've learned computer, It's really fun and fit for me
+## 소개
+> 🔭 꾸준히 성장하는 개발자 **AI Engineer**   
+> 🌱 HGU B.S && Deep Learning LAB
+
+tistory: https://handong201.tistory.com
+BLOG : https://kimhyunuk98.github.io
+
+### 기술 블로그 정리와 딥러닝 기초, 전공과목 공부 중입니다.
 
 <!--
 **KIMHYUNUK98/KIMHYUNUK98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
