@@ -1,22 +1,22 @@
-# 성장하는 자율주행 개발자가 되고 싶은 김현욱입니다. 👋  
+# 무슨 일을 하든 주께 하듯 하자 🔥
 
-## 소개
+### 🙇‍♂️ **Introduction**
 > 🔭 꾸준히 성장하는 개발자 **AI Engineer**   
 > 🌱 HGU B.S && Deep Learning LAB
 
-### **Timeline**
+### ⏲️ **Timeline**
 > 2018.03 - HGU Freshmen (Set Major in Advanced Electronics)  
 > 2019.02 - Military Service  
 > 2021.02 - Return to School (Changing Major to AI Computer Science)   
 > 2021.12 - Deep Learning LAB  
 
-### **Project**
+### 📽️ **Project**
 > 2021.07 - 대학생 모형차 자율주행 대회 **(Python, Computer Vision, Sensor..)**  
 > 2021.10 - AppDev, Team Project Tracker Service (FAIL)  
 > 2021.12 - Spring Tool Grade Management Web Service    
 > 2022.02 - Gatsby Portfolio Web Customizing  
 
-### **Study**
+### 👨‍🎓 **Study**
 > 2021.04 - Logic Design Study  
 > 2021.07 - Problem Solving Camp  
 > 2021.08 - BaekJoon Algorithm C++  
