@@ -13,6 +13,8 @@ Deep Learning Study
 <br/>
 
 
+- 🔭 꾸준히 성장하는 개발자 **AI Engineer**   
+- 🌱 HGU B.S && Deep Learning LAB
 - 무엇이든지 하나님 안에서 기쁨으로 공부하며 살아가는 마음가짐을 갖고 있습니다.
 - 허락해주신 환경과 공부할 수 있는 여건에 감사하며 최선을 다해 사명을 알아가는 중입니다.
 - 현재 자율주행 관련 개발자를 목표로 한 분야의 전문가가 되는 것이 꿈입니다. 🥇
@@ -26,11 +28,6 @@ Deep Learning Study
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp;
-
-
-### 🙇‍♂️ **Introduction**
-> 🔭 꾸준히 성장하는 개발자 **AI Engineer**   
-> 🌱 HGU B.S && Deep Learning LAB
 
 ### ⏲️ **Timeline**
 > 2018.03 - HGU Freshmen (Set Major in Advanced Electronics)  
