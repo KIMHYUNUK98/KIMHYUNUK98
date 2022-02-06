@@ -53,7 +53,7 @@ Deep Learning Study
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyunuk98&show_icons=true&theme=radical)
-<img src="./img/github.jpg" width="27%">  
+<img src="./img/github.jpg" width="35%">  
 
 <br/>  
 
