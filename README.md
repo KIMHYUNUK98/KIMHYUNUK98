@@ -44,13 +44,21 @@ Deep Learning Study
 ### 👨‍🎓 **Study**
 > 2021.04 - Logic Design Study  
 > 2021.07 - Problem Solving Camp  
+> 2021.07 - Deep Learning PyTorch Camp  
 > 2021.08 - BaekJoon Algorithm C++  
 > 2021.09 - Computer Architecture Study  
 > 2021.11 - SAT Solving with C  
 > 2022.01 - BaekJoon, Programmers, Algorithm Study C++  
 > 2022.01 - PyTorch Study with LAB Member  
 > 2022.01 - Deep Learning Camp Self Study  
-<br/>
+
+### 🥇🥈🥉 **Thankful**
+> 2018.07 - Grade Scholarship  
+> 2021.07 - 좋은 수업 공모전 3등 `` 📝 전공 학습 방법에 대한 고민과 논리적 성장 스토리  ``
+> 2021.11 - SW 중심대학 프로그램 참여 후기 공모전 우수상  `` 📝 모형차 자율 주행  ``  
+> 2022.02 - Grade Scholarship  
+
+<br/><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyunuk98&show_icons=true&theme=radical)
 <img src="./img/github.jpg" width="35%">  
