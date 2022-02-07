@@ -10,6 +10,12 @@ Handong Global University
 ``
 Deep Learning Study
 ``
+``
+https://kimhyunuk98.github.io
+``
+``
+https://handong201.tistory.com
+``
 <br/>
 
 
