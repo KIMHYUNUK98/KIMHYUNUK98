@@ -39,13 +39,16 @@ https://handong201.tistory.com
 > 2018.03 - HGU Freshmen (Set Major in Advanced Electronics)  
 > 2019.02 - Military Service  
 > 2021.02 - Return to School (Changing Major to AI Computer Science)   
-> 2021.12 - Deep Learning LAB  
+> 2021.10 - CodeCoach 봉사 동아리 개발팀  
+> 2021.12 - Deep Learning 랩실  
 
 ### 📽️ **Project**
 > 2021.07 - 대학생 모형차 자율주행 대회 **(Python, Computer Vision, Sensor..)**  
 > 2021.10 - AppDev, Team Project Tracker Service (FAIL)  
 > 2021.12 - Spring Tool Grade Management Web Service    
+> 2021.01 - MicroBit를 활용한 커리큘럼 제작하기 (코드코치 개발팀)  
 > 2022.02 - Gatsby Portfolio Web Customizing  
+
 
 ### 👨‍🎓 **Study**
 > 2021.04 - Logic Design Study  
