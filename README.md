@@ -48,6 +48,9 @@ https://handong201.tistory.com
 > 2021.12 - Spring Tool Grade Management Web Service    
 > 2021.01 - MicroBit를 활용한 커리큘럼 제작하기 (코드코치 개발팀)  
 > 2022.02 - Gatsby Portfolio Web Customizing  
+> 2022.03 - Comparing Deep learning Model on Board (with NextChip Corp)  
+> 2022.05 - Software Education for Elementary Students (구룡포 초등학교) - 5 weeks  
+> 2022.06 - POSCO 상상교사 for PoHang Middle School Students  
 
 
 ### 👨‍🎓 **Study**
@@ -60,12 +63,16 @@ https://handong201.tistory.com
 > 2022.01 - BaekJoon, Programmers, Algorithm Study C++  
 > 2022.01 - PyTorch Study with LAB Member  
 > 2022.01 - Deep Learning Camp Self Study  
+> 2022.03 - Algorithm Study  
+> 2022.03 - Operating System Self Study  
 
 ### 🥇🥈🥉 **Thankful**
 > 2018.07 - Grade Scholarship  
 > 2021.07 - 좋은 수업 공모전 3등 `` 📝 전공 학습 방법에 대한 고민과 논리적 성장 스토리  ``  
 > 2021.11 - SW 중심대학 프로그램 참여 후기 공모전 우수상  `` 📝 모형차 자율 주행  ``  
 > 2022.02 - Grade Scholarship  
+> 2022.05 - National Science and Engineering Scholorship for 2 years  
+> 
 
 <br/><br/>
 
