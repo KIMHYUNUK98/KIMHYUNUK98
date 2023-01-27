@@ -2,24 +2,18 @@
 
 ### 📖 **PROFILE**
 ``
-Computer Science
-``
-``
 Handong Global University
 ``
 ``
-Deep Learning Study
+Deep Learning LAB
 ``
 ``
-https://kimhyunuk98.github.io
-``
-``
-https://handong201.tistory.com
+Automotive Drive
 ``
 <br/>
 
 
-- 🔭 꾸준히 성장하는 개발자 **AI Engineer**   
+- 🔭 Self-Motivated  **AI Engineer**   
 - 🌱 HGU B.S && Deep Learning LAB
 - 무엇이든지 하나님 안에서 기쁨으로 공부하며 살아가는 마음가짐을 갖고 있습니다.
 - 허락해주신 환경과 공부할 수 있는 여건에 감사하며 최선을 다해 사명을 알아가는 중입니다.
@@ -48,9 +42,11 @@ https://handong201.tistory.com
 > 2021.12 - Spring Tool Grade Management Web Service    
 > 2021.01 - MicroBit를 활용한 커리큘럼 제작하기 (코드코치 개발팀)  
 > 2022.02 - Gatsby Portfolio Web Customizing  
-> 2022.03 - Comparing Deep learning Model on Board (with NextChip Corp)  
+> 2022.03 - Comparing Deep learning Model on SoC Board _ TDA4 vs APACHE5 (with NextChip)  
 > 2022.05 - Software Education for Elementary Students (구룡포 초등학교) - 5 weeks  
 > 2022.06 - POSCO 상상교사 for PoHang Middle School Students  
+> 2022.07 - 대학생 모형차 자율주행 대회 **(Python, ROS, Computer Vision)**  
+> 2022.10 - Traffic Sign Recognition on Automotive Drive (with NextChip)
 
 
 ### 👨‍🎓 **Study**
@@ -63,8 +59,10 @@ https://handong201.tistory.com
 > 2022.01 - BaekJoon, Programmers, Algorithm Study C++  
 > 2022.01 - PyTorch Study with LAB Member  
 > 2022.01 - Deep Learning Camp Self Study  
-> 2022.03 - Algorithm Study  
+> 2022.03 - Algorithm Study with CS member
 > 2022.03 - Operating System Self Study  
+> 2022.07 - Machine Learning Study with LAB Member
+> 2022.10 - Network Study with CS member
 
 ### 🥇🥈🥉 **Thankful**
 > 2018.07 - Grade Scholarship  
@@ -72,16 +70,12 @@ https://handong201.tistory.com
 > 2021.11 - SW 중심대학 프로그램 참여 후기 공모전 우수상  `` 📝 모형차 자율 주행  ``  
 > 2022.02 - Grade Scholarship  
 > 2022.05 - National Science and Engineering Scholorship for 2 years  
+> 2022.07 - SW 모형차 자율주행 대회 우수상
+> 2022.07 - Grade Scholarship
+> 2022.12 - Grade Scholarship
 > 
 
 <br/><br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyunuk98&show_icons=true&theme=radical)
-<img src="./img/github.jpg" width="35%">  
-
-<br/>  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunuk98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 TISTORY: https://handong201.tistory.com     
 BLOG : https://kimhyunuk98.github.io
